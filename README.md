@@ -1,7 +1,7 @@
 automatizador-gulp
 ==================
 
-Projeto de automatização de tarefas utilizando o Gulp, minificando e concatenando Java Script e CSS, além de optimizar imagens.
+Projeto de automatização de tarefas utilizando o Gulp, minificando e concatenando Java Script e CSS, compila o LESS para CSS, além de optimizar imagens.
 
 <h2>Node.js</h2>
 <a href="http://imasters.com.br/artigo/22016/javascript/o-que-exatamente-e-o-nodejs/" target="_blank">Sobre</a>
@@ -12,6 +12,10 @@ Projeto de automatização de tarefas utilizando o Gulp, minificando e concatena
 
 <h2>Bower</h2>
 <a href="http://simplesideias.com.br/gerenciando-dependencias-client-side-com-bowergulp" target="_blank">Sobre</a>
+<br/>
+
+<h2>LESS</h2>
+<a href="http://lesscss.org" target="_blank">Sobre</a>
 <br/>
 
 <h2>Gulp</h2>
