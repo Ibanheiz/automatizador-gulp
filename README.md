@@ -9,7 +9,14 @@ Projeto de automatização de tarefas utilizando o Gulp, minificando e concatena
 <a href="http://nodejs.org/download/" target="_blank">Download</a>
 <br/>
 <a href="https://github.com/joyent/node/wiki/installing-node.js-via-package-manager" target="_blank">Install</a>
-
+<br/>
+<h4>Install npm global</h4>
+<ul>
+  <li><b>bower</b>: npm install -g bower</li>
+  <li><b>express</b>: npm install -g express-generator</li>
+  <li><b>nodemon</b>: npm install -g nodemon</li>
+  <li><b>less</b>: npm install -g less</li>
+</ul>
 <h2>Bower</h2>
 <a href="http://simplesideias.com.br/gerenciando-dependencias-client-side-com-bowergulp" target="_blank">Sobre</a>
 <br/>
