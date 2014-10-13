@@ -15,7 +15,6 @@ var nodemon = require('gulp-nodemon');
 // Variáveis de controle
 var jsFiles = 'front/js/*.js';
 var styleFiles = 'front/css/less/*.less';
-var lib = 'front/bower_components/**/*min.js';
 
 /* Boas práticas para minificação dos js*/
 gulp.task('lint', function() {
