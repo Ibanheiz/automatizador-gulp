@@ -18,7 +18,7 @@ Projeto de automatização de tarefas utilizando o Gulp, minificando e concatena
   <li><b>less</b>: npm install -g less</li>
 </ul>
 <h2>Bower</h2>
-<a href="http://simplesideias.com.br/gerenciando-dependencias-client-side-com-bowergulp" target="_blank">Sobre</a>
+<a href="http://simplesideias.com.br/gerenciando-dependencias-client-side-com-bower" target="_blank">Sobre</a>
 <br/>
 
 <h2>LESS</h2>
