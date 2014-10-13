@@ -40,3 +40,5 @@ Projeto de automatização de tarefas utilizando o Gulp, minificando e concatena
 <h2>Run</h2>
 <b>npm start</b>
 <br/>
+
+A magia está toda no gulpfile.js :)
