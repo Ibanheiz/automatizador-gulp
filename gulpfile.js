@@ -78,4 +78,4 @@ gulp.task('demon', function () {
 });
 
 // Default Task
-gulp.task('default', ['demon', 'concat-lib', 'minify', 'less', 'images-opt', ]);
+gulp.task('default', ['demon', 'minify', 'less', 'images-opt', ]);
