@@ -53,7 +53,10 @@ gulp.task('minify', ['lint'], function() {
 /* Minifica o tamanho das imagens */
 gulp.task('images-opt', function () {
     gulp.src('front/image/original/*.*')
-        .pipe(imagemin({optimizationLevel: 5}))
+        .pipe(imagemin({
+            optimizationLevel: 5,
+            progressive: true
+        }))
         .pipe(gulp.dest('front/image'));
 });
 
